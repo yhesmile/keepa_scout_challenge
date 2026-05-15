@@ -2,9 +2,9 @@
 internal/
 candidate_simulation/.venv/
 candidate_simulation/data/*.db*
-*.env
-.env
-.env.local
+#*.env
+#.env
+#.env.local
 
 # ── Python ──
 __pycache__/
